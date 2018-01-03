@@ -1,12 +1,16 @@
-body { padding: 0; margin: 0; font-family: "Calibri"; }
+body { text-decoration: none; }
 
-li { list-style-type: none; font-size: 20px; font-weight: 10px; margin-left: 150px; }
+li { list-style-type: none; }
 
-.container { text-decoration: none; }
-.container .photo { width: 120px; height: 120px; border-radius: 50%; margin-left: 20px; }
-.container .inf { margin-top: 20px; margin-left: 40px; font-size: 18px; font-weight: 10px; }
-.container .soc { margin-top: 30px; margin-left: 80px; font-size: 18px; font-weight: 10px; }
+.head { font-size: 50px; font-weight: 40px; color: #E3D6CE; background-color: #333; list-style: none; text-align: center; height: 90px; padding: 75px; }
+.head .head2 { font-size: 15px; font-weight: 10px; margin-right: 150px; }
 
-p1, p2, p3, p4, p5 { font-size: 15px; font-weight: 10px; margin-left: 150px; }
+.glav { text-align: center; font-size: 20px; font-weight: 10px; margin-right: 140px; }
+
+.year { margin-left: 400px; text-align: left; }
+
+.item { text-align: center; font-size: 17px; font-weight: 10px; }
+
+#inf { text-align: center; font-size: 13px; font-weight: 9px; margin-left: 50px; }
 
 /*# sourceMappingURL=main.css.map */
