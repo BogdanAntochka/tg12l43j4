@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: "Calibri";
+}
+
+li{
+	list-style-type: none;
+	font-size: 20px;
+	font-weight: 10px;
+	margin-left: 150px;
+}
+
+ .container{
+ 	text-decoration: none;
+   .photo{
+			width: 120px;
+			height: 120px;
+			border-radius: 50%;
+			margin-left: 20px;
+		}
+		 .inf{
+       margin-top: 20px;
+       margin-left: 40px;
+       font-size: 18px;
+       font-weight: 10px;
+		 }
+		   .soc{
+		   	margin-top: 30px;
+        margin-left: 80px;
+        font-size: 18px;
+        font-weight: 10px;
+		   }
+}
+#p1,#p2,#p3,#p4,#p5{
+   font-size: 15px;
+   font-weight: 10px;
+   margin-left: 150px;
+}
